@@ -1,5 +1,7 @@
 {
-  "homepage": "http://snvaladez.github.io/photo-port",
+  "homepage": "https://snvaladez.github.io/photo-port",
+  "snvaladez": "SNValadez",
+  "photo-port": "photo-port",
   "name": "photo-port",
   "version": "0.1.0",
   "private": true,
